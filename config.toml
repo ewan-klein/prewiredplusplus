@@ -1,4 +1,4 @@
-baseurl = "" #prewiredplusplus.netlify.app"
+baseurl = "/" #prewiredplusplus.netlify.app"
 title = "Prewired++"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
