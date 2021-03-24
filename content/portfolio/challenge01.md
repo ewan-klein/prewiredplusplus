@@ -21,6 +21,6 @@ list of urls etc
 --- 
 
 * **Level**: Easy
-* **Badge**: link to badge
+* **Badge**: [Web Development Foundations](https://eu.badgr.com/public/badges/UV30WM3pRjOvkww9h5welw)
 * **Mentors**: one or more volunteers
 
